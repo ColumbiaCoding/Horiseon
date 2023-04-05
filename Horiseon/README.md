@@ -1,0 +1,4 @@
+# Code Refactor Starter Code
+# Horiseon
+
+Description of Project:  the changes made to the codebase, specifically, the CSS file, were made to in order to improve its structure, readability, and maintainability. It also include a list of the specific code smells or issues that were identified and addressed through the refactoring process. In general, refactoring involves making small, incremental changes to code in order to improve its quality without altering its functionality. This might involve simplifying complex code, removing redundant or unnecessary elements, or reorganizing the code to make it more modular and easier to understand.
